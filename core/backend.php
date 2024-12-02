@@ -146,7 +146,6 @@ class db
 
 	static function auth_log_manager()
 	{
-		// $pass = '7416414';
 		$login = '<login>';
 		$pass = '<password>';
 		if ($_POST['login'] == $login and $_POST['pass'] == $pass) {
