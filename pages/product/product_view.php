@@ -1,0 +1,1 @@
+<?if($_GET["page"] == "product"){require $_GET["lang"]."/product_list.php";}?>

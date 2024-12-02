@@ -1,0 +1,1 @@
+<?if($_GET["page"] == "quality-control")require $_GET["lang"]."/quality-control_list.php";?>
