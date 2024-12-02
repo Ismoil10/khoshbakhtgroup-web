@@ -36,7 +36,7 @@ class bot
 {
 static function token()
 {
-	$token = 'bot6776147594:AAGSQAcz460Yua8fSSpm69Crd4RyNF50kX8';
+	$token = '<token>';
 	return $token;
 }
 
@@ -147,8 +147,8 @@ class db
 	static function auth_log_manager()
 	{
 		// $pass = '7416414';
-		$login = 'Asaman.uzb@gmail.com';
-		$pass = 'Z_asaman1*3';
+		$login = '<login>';
+		$pass = '<password>';
 		if ($_POST['login'] == $login and $_POST['pass'] == $pass) {
 			$rs = 'success';
 			$data = ['ID' => 'admin', 'NAME' => 'super', 'SURNAME' => 'admin', 'POSITION' => 'superadmin', 'PHOTO_LINK' => ''];

@@ -1,1 +1,4 @@
 /core/lib
+/core/template/assets
+/core/adminer.php
+/core/mail.php
