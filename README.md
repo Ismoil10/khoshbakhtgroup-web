@@ -5,8 +5,11 @@ Khoshbakht Group Website
 A website developed for Khoshbakht Group to showcase company information, manage products, and enhance customer interaction.
 
 Main Technologies
+
 Frontend: HTML, CSS, Bootstrap, JavaScript, jQuery
+
 Backend: PHP, MySQL
+
 Tools: AJAX
 
 
